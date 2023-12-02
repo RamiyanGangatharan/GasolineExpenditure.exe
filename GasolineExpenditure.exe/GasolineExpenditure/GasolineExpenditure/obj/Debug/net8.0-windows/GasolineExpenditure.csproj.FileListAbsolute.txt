@@ -1,0 +1,16 @@
+D:\Directory\Durham College\Semester 3\GasolineExpenditure.exe\GasolineExpenditure\GasolineExpenditure\bin\Debug\net8.0-windows\GasolineExpenditure.exe
+D:\Directory\Durham College\Semester 3\GasolineExpenditure.exe\GasolineExpenditure\GasolineExpenditure\bin\Debug\net8.0-windows\GasolineExpenditure.deps.json
+D:\Directory\Durham College\Semester 3\GasolineExpenditure.exe\GasolineExpenditure\GasolineExpenditure\bin\Debug\net8.0-windows\GasolineExpenditure.runtimeconfig.json
+D:\Directory\Durham College\Semester 3\GasolineExpenditure.exe\GasolineExpenditure\GasolineExpenditure\bin\Debug\net8.0-windows\GasolineExpenditure.dll
+D:\Directory\Durham College\Semester 3\GasolineExpenditure.exe\GasolineExpenditure\GasolineExpenditure\bin\Debug\net8.0-windows\GasolineExpenditure.pdb
+D:\Directory\Durham College\Semester 3\GasolineExpenditure.exe\GasolineExpenditure\GasolineExpenditure\obj\Debug\net8.0-windows\GasolineExpenditure.Window.resources
+D:\Directory\Durham College\Semester 3\GasolineExpenditure.exe\GasolineExpenditure\GasolineExpenditure\obj\Debug\net8.0-windows\GasolineExpenditure.csproj.GenerateResource.cache
+D:\Directory\Durham College\Semester 3\GasolineExpenditure.exe\GasolineExpenditure\GasolineExpenditure\obj\Debug\net8.0-windows\GasolineExpenditure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Directory\Durham College\Semester 3\GasolineExpenditure.exe\GasolineExpenditure\GasolineExpenditure\obj\Debug\net8.0-windows\GasolineExpenditure.AssemblyInfoInputs.cache
+D:\Directory\Durham College\Semester 3\GasolineExpenditure.exe\GasolineExpenditure\GasolineExpenditure\obj\Debug\net8.0-windows\GasolineExpenditure.AssemblyInfo.cs
+D:\Directory\Durham College\Semester 3\GasolineExpenditure.exe\GasolineExpenditure\GasolineExpenditure\obj\Debug\net8.0-windows\GasolineExpenditure.csproj.CoreCompileInputs.cache
+D:\Directory\Durham College\Semester 3\GasolineExpenditure.exe\GasolineExpenditure\GasolineExpenditure\obj\Debug\net8.0-windows\GasolineExpenditure.dll
+D:\Directory\Durham College\Semester 3\GasolineExpenditure.exe\GasolineExpenditure\GasolineExpenditure\obj\Debug\net8.0-windows\refint\GasolineExpenditure.dll
+D:\Directory\Durham College\Semester 3\GasolineExpenditure.exe\GasolineExpenditure\GasolineExpenditure\obj\Debug\net8.0-windows\GasolineExpenditure.pdb
+D:\Directory\Durham College\Semester 3\GasolineExpenditure.exe\GasolineExpenditure\GasolineExpenditure\obj\Debug\net8.0-windows\GasolineExpenditure.genruntimeconfig.cache
+D:\Directory\Durham College\Semester 3\GasolineExpenditure.exe\GasolineExpenditure\GasolineExpenditure\obj\Debug\net8.0-windows\ref\GasolineExpenditure.dll
