@@ -28,35 +28,85 @@
         /// </summary>
         private void InitializeComponent()
         {
-            label1 = new Label();
+            menuStrip1 = new MenuStrip();
+            fileToolStripMenuItem = new ToolStripMenuItem();
+            exportToolStripMenuItem = new ToolStripMenuItem();
+            dataToolStripMenuItem = new ToolStripMenuItem();
+            supportToolStripMenuItem = new ToolStripMenuItem();
+            GasGrid = new DataGridView();
+            menuStrip1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)GasGrid).BeginInit();
             SuspendLayout();
             // 
-            // label1
+            // menuStrip1
             // 
-            label1.AutoSize = true;
-            label1.Location = new Point(495, 661);
-            label1.Name = "label1";
-            label1.Size = new Size(388, 20);
-            label1.TabIndex = 0;
-            label1.Text = "Copyright Ramiyan Gangatharan [12/02/2023]";
+            menuStrip1.BackColor = Color.Transparent;
+            menuStrip1.Items.AddRange(new ToolStripItem[] { fileToolStripMenuItem, exportToolStripMenuItem, dataToolStripMenuItem, supportToolStripMenuItem });
+            menuStrip1.Location = new Point(0, 0);
+            menuStrip1.Name = "menuStrip1";
+            menuStrip1.Size = new Size(884, 24);
+            menuStrip1.TabIndex = 1;
+            menuStrip1.Text = "menuStrip1";
+            // 
+            // fileToolStripMenuItem
+            // 
+            fileToolStripMenuItem.Name = "fileToolStripMenuItem";
+            fileToolStripMenuItem.Size = new Size(37, 20);
+            fileToolStripMenuItem.Text = "File";
+            // 
+            // exportToolStripMenuItem
+            // 
+            exportToolStripMenuItem.Name = "exportToolStripMenuItem";
+            exportToolStripMenuItem.Size = new Size(53, 20);
+            exportToolStripMenuItem.Text = "Export";
+            // 
+            // dataToolStripMenuItem
+            // 
+            dataToolStripMenuItem.Name = "dataToolStripMenuItem";
+            dataToolStripMenuItem.Size = new Size(43, 20);
+            dataToolStripMenuItem.Text = "Data";
+            // 
+            // supportToolStripMenuItem
+            // 
+            supportToolStripMenuItem.Name = "supportToolStripMenuItem";
+            supportToolStripMenuItem.Size = new Size(61, 20);
+            supportToolStripMenuItem.Text = "Support";
+            // 
+            // GasGrid
+            // 
+            GasGrid.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            GasGrid.Location = new Point(12, 27);
+            GasGrid.Name = "GasGrid";
+            GasGrid.Size = new Size(860, 200);
+            GasGrid.TabIndex = 2;
             // 
             // Window
             // 
             AutoScaleDimensions = new SizeF(10F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1403, 690);
-            Controls.Add(label1);
+            BackColor = Color.LightSteelBlue;
+            ClientSize = new Size(884, 461);
+            Controls.Add(GasGrid);
+            Controls.Add(menuStrip1);
             Font = new Font("MS Reference Sans Serif", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            Margin = new Padding(4, 4, 4, 4);
+            MainMenuStrip = menuStrip1;
+            Margin = new Padding(4);
             Name = "Window";
             Text = "Ramiyan's Gasoline Expenditure";
             Load += Window_Load;
+            menuStrip1.ResumeLayout(false);
+            menuStrip1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)GasGrid).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
 
         #endregion
-
-        private Label label1;
+        private MenuStrip menuStrip1;
+        private ToolStripMenuItem fileToolStripMenuItem;
+        private ToolStripMenuItem exportToolStripMenuItem;
+        private ToolStripMenuItem dataToolStripMenuItem;
+        private ToolStripMenuItem supportToolStripMenuItem;
+        private DataGridView GasGrid;
     }
 }
